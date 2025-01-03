@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cricket Ball (Sports).
+* source:	https://sketchfab.com/3d-models/cricket-ball-sports-b13a0d69d6ca48d4b125de2cc2e7f940
+* author:	Rohit Pawar (https://sketchfab.com/rohit8999)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cricket Ball (Sports)." (https://sketchfab.com/3d-models/cricket-ball-sports-b13a0d69d6ca48d4b125de2cc2e7f940) by Rohit Pawar (https://sketchfab.com/rohit8999) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

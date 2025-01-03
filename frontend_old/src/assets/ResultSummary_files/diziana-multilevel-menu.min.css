@@ -1,0 +1,18 @@
+/**
+ * Template Name: DizianaMultilevelMenu
+ * Author: Allies Interactive
+ * Website: http://www.diziana.com
+ * Corporate Website : http://www.diziana.com
+ * Contact: support@diziana.com
+ * Follow: https://www.twitter.com/dizianaEngage
+ * Like: https://www.facebook.com/diziana.engage
+ * Purchase: Diziana.com
+ * @version 3.0.0
+ * @link http://www.diziana.com
+ * @license You must have a valid license purchased only from diziana.com in order to legally use the theme for your project.
+ * @copyright: © 2017 Allies Interactive Services Pvt. Ltd. All Rights Reserved
+ */
+/*!
+ *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */.dz_mlmenu li,.dz_mlmenu ul{display:inline-block;width:100%;margin:0;padding:0}.dz_mlmenu a{text-decoration:none}.dz_mlmenu a:active,.dz_mlmenu a:hover,.dz_mlmenu a:link{text-decoration:none}.dz_mlmenu ul{list-style:none}.dz_mlmenu span{font-size:inherit;display:inline-block;color:inherit}.dz_mlmenu_first-loader{display:block;margin-right:auto;margin-left:auto;text-align:center}.dz_mlmenu .dz_mlmenu_item_icon,.dz_mlmenu .dz_mlmenu_item_text{display:inline-block;float:left}.dz_mlmenu .dz_mlmenu_item_text{width:90%}.dz_mlmenu .dz_mlmenu_item_icon{width:10%}.dz_mlmenu .dz_mlmenu_item_icon>*{float:right;margin-top:4px;text-align:right}.dz_mlmenu .dz_mlmenu_item_icon_open{display:none}.dz_mlmenu .dz_mlmenu_item_icon_closed{display:block}.dz_mlmenu .dz_mlmenu_item_icon_loader{display:none}.dz_mlmenu a.dz_mlmenu_list-link{display:inline-block;width:100%;padding:5px}.dz_mlmenu a.dz_mlmenu_list-link[data-aria-dropdown=true] .dz_mlmenu_item_icon_open{display:block}.dz_mlmenu a.dz_mlmenu_list-link[data-aria-dropdown=true] .dz_mlmenu_item_icon_closed,.dz_mlmenu a.dz_mlmenu_list-link[data-aria-dropdown=true] .dz_mlmenu_item_icon_loader{display:none}.dz_mlmenu a.dz_mlmenu_list-link.dz_mlmenu_in-progress .dz_mlmenu_item_icon_closed,.dz_mlmenu a.dz_mlmenu_list-link.dz_mlmenu_in-progress .dz_mlmenu_item_icon_open{display:none}.dz_mlmenu a.dz_mlmenu_list-link.dz_mlmenu_in-progress .dz_mlmenu_item_icon_loader{display:block}.dz_mlmenu a.dz_mlmenu_list-link.dz_mlmenu_active>.dz_mlmenu_item_text{font-weight:700}.dz_mlmenu .dz_mlmenu_submenu{display:none;width:100%}.dz_mlmenu .dz_mlmenu_submenu_category,.dz_mlmenu .dz_mlmenu_submenu_section{padding-left:15px}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}

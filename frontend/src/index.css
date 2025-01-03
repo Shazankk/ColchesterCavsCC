@@ -1,0 +1,22 @@
+@import "flowbite";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for the carousel indicators */
+.carousel-indicators button {
+  background-color: #fff !important; /* Make the indicators white */
+  opacity: 0.8; /* Add some opacity for a subtle effect */
+  width: 10px; /* Increase width */
+  height: 10px; /* Increase height */
+  border-radius: 50%; /* Make them circular */
+  margin: 0 5px; /* Add some space between indicators */
+  transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition */
+}
+
+/* Highlight the active indicator */
+.carousel-indicators button.active {
+  background-color: #00b4d8 !important; /* Make active indicator a bright blue */
+  transform: scale(1.3); /* Slightly enlarge the active indicator */
+}
